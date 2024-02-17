@@ -1,4 +1,4 @@
-
+//code1:
 //actual data with no customization
 document.addEventListener("DOMContentLoaded", async function() {
 
@@ -22,7 +22,7 @@ const apiUrl =
     }
 });
 
-
+//code: 2
 //customize json data to display what ever you want 
 
 // document.addEventListener("DOMContentLoaded", function() {
