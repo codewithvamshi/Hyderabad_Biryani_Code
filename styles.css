@@ -1,0 +1,32 @@
+/* styles.css */
+#restaurant-list {
+    width: 80%; /* Adjust width as needed */
+    margin: 0 auto; /* Center horizontally */
+    text-align: left; /* Align text to the left within the centered container */
+    color: black; /* Set text color to black */
+}
+
+h1 {
+    width: 80%; 
+    margin: 0 auto; 
+    text-align: left; /* Align h1 text to the left */
+}
+.restaurant {
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    padding: 10px;
+    color: black; /* Set text color to black */
+}
+
+.restaurant h2 {
+    margin-bottom: 5px;
+}
+
+.restaurant ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.restaurant li {
+    margin-bottom: 5px;
+}
